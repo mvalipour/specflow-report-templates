@@ -20,5 +20,5 @@ are compared:
 
 <hr>
 
-<img width="50%" src='https://raw.github.com/mvalipour/specflow-report-templates/master/nunit-default/sample/sample.png)' />
-<img width="50%" src='https://raw.github.com/mvalipour/specflow-report-templates/master/nunit-dream/sample/sample.png)' />
+<img width="50%" src='https://raw.github.com/mvalipour/specflow-report-templates/master/nunit-default/sample/sample.png' />
+<img width="50%" src='https://raw.github.com/mvalipour/specflow-report-templates/master/nunit-dream/sample/sample.png' />
