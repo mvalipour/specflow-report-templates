@@ -11,4 +11,6 @@ This template is a modified version of the default template that adds the follow
 
 Here is an example of generated report using this template's XSLT:
 
+<hr>
+
 ![sample](https://raw.github.com/mvalipour/specflow-report-templates/master/nunit-dream/sample/sample.png)
