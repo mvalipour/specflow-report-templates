@@ -131,6 +131,7 @@ position:relative;
           <xsl:call-template name="html-body-header">
             <xsl:with-param name="title" select="$title" />
           </xsl:call-template>
+		  <div>Template by <a href='https://github.com/mvalipour'>M Valipour</a> via specflow-report-templates project (see on <a href='https://github.com/mvalipour/specflow-report-templates'>GitHub</a>)</div>
           <h2>Summary</h2>
           <xsl:variable name="summary">
             <xsl:call-template name="get-summary" />
