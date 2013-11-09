@@ -7,10 +7,18 @@ some useful information from the test result (such as categories and namespaces)
 
 The aim of this project is to collect templates that can be passed to specflow report generator to get better output.
 
-## Controbutions
+## Contributing
 
 Have you made your own XSLT for this purpose? Why not share it with others here?
 Also if you found an issue or want to improve something. I welcome pull-requests :)
+
+## Usage
+
+You should use the report generator command-line [as always](https://github.com/techtalk/SpecFlow/wiki/Reporting) but with an additional `xsltFile` parameter, passing to it the XSLT file path.
+
+```bash
+  specflow.exe nunitexecutionreport "xyz.csproj" /xsltFile:"<path to the XSLT file of the template>"
+```
 
 ## Example
 
